@@ -1,0 +1,5 @@
+*.o
+*.exe
+sovereign_orchestrator
+build/
+.idea/
